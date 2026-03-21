@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: springAiDemo
+
+
+
+  ai:
+    ollama:
+      chat:
+        options:
+          model: "gemma3:latest"
